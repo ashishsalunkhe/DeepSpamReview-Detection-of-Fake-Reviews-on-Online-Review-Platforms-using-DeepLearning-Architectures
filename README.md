@@ -1,4 +1,4 @@
-# Fraudulent-Review-Detection-using-CNN-LSTM-and-Word-Embeddings
+# Detection of Fake Reviews on Online Review Platforms using Deep Learning Architectures
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-data-augmentation/sentiment-analysis-on-yelp-fine-grained)](https://paperswithcode.com/sota/sentiment-analysis-on-yelp-fine-grained?p=unsupervised-data-augmentation)
 
 Dataset: https://s3.amazonaws.com/fast-ai-nlp/yelp_review_polarity_csv.tgz
