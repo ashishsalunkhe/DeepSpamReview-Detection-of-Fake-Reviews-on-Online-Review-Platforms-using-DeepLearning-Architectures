@@ -18,6 +18,7 @@ The results obtained were as follows:
 | Bidirectional LSTM + GLoVe(50D) | 92.17  | 88.13 |
 | LSTM + GLoVe(100D) |  |  |
 | LSTM + GLoVe(300D) |  |  |
+| CNN + LSTM + Doc2Vec +TF-IDF | 99.18  | 98.28 |
 | Multi layer LSTM + GLoVe(300D) |  |  |
 | LSTM + Attention + GLoVe(100D) |  | |
 
