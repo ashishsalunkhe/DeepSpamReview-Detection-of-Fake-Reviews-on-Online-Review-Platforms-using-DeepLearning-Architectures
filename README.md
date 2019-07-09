@@ -17,7 +17,7 @@ The results obtained were as follows:
 | Model | Training accuracy(%) | Testing accuracy(%) |
 | ----- | ----------------- | ---------------- |
 | Bidirectional LSTM + GLoVe(50D) | 92.17  | 88.13 |
-| LSTM + GLoVe(100D) |  |  |
+| LSTM + GLoVe(100D) | 99.18 | 85.75 |
 | LSTM + GLoVe(300D) |  |  |
 | CNN + LSTM + Doc2Vec +TF-IDF | 99.18  | 98.28 |
 | Multi layer LSTM + GLoVe(300D) |  |  |
