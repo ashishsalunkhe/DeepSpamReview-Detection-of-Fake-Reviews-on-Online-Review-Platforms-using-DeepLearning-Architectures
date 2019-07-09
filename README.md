@@ -2,6 +2,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-data-augmentation/sentiment-analysis-on-yelp-fine-grained)](https://paperswithcode.com/sota/sentiment-analysis-on-yelp-fine-grained?p=unsupervised-data-augmentation)
 
 Dataset: https://s3.amazonaws.com/fast-ai-nlp/yelp_review_polarity_csv.tgz
+         https://www.kaggle.com/rtatman/deceptive-opinion-spam-corpus
 
 The data includes 1,569,264 samples from the Yelp Dataset Challenge 2015. This subset has 280,000 training samples and 19,000 test samples in each polarity.
 The following implementations are done:
