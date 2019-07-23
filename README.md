@@ -21,6 +21,7 @@ The results obtained were as follows:
 | LSTM + GLoVe(300D) |  |  |
 | CNN + LSTM + Doc2Vec +TF-IDF | 99.18  | 98.28 |
 | Multi layer LSTM + GLoVe(300D) |  |  |
+| CNN + Attention + GLoVe(100D) | 99.00 | 90.25 |
 | LSTM + Attention + GLoVe(100D) |  | |
 | LogisticRegression + TF-IDF | 99.11 | 87.21 |
 
