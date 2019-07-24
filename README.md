@@ -9,8 +9,11 @@ The following implementations are done:
 1. Bidirectional LSTM with GLoVE 50D word embeddings
 2. LSTM with GLoVE 100D word embeddings
 3. LSTM with GLoVE 300D word embeddings
-4. Multi layer LSTM + with GLoVE 100D word embeddings
+4. CNN-LSTM with Doc2Vec and TF-IDF
 5. Attention mechanism with GLoVe 100D word embeddings
+6. Logistic Regression 
+7. Multinomial Naive Bayes
+8. Support Vector Machine - Stochastic Gradient Descent (SGD) 
 
 The results obtained were as follows:
 
