@@ -21,7 +21,7 @@ The results obtained were as follows:
 | ----- | ----------------- | ---------------- |
 | Bidirectional LSTM + GLoVe(50D) | 92.17  | 88.13 |
 | LSTM + GLoVe(100D) | 99.18 | 85.75 |
-| CNN + LSTM + Doc2Vec +TF-IDF | 99.18  | 98.28 |
+| CNN + LSTM + Doc2Vec +TF-IDF | 96.23  | 92.19 |
 | CNN + Attention + GLoVe(100D) | 99.00 | 90.25 |
 | LSTM + Attention + GLoVe(100D) | 99.18 | 89.27 |
 | LogisticRegression + TF-IDF | 99.11 | 87.21 |
