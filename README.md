@@ -23,7 +23,8 @@ The results obtained were as follows:
 | LSTM + GLoVe(100D) | 99.18 | 85.75 |
 | CNN + LSTM + Doc2Vec +TF-IDF | 96.23  | 92.19 |
 | CNN + Attention + GLoVe(100D) | 99.00 | 90.25 |
-| LSTM + Attention + GLoVe(100D) | 99.18 | 89.27 |
+| BiLSTM + Attention + GLoVe(100D) | 99.18 | 89.27 |
+| CNN + BiLSTM + Attention + GLoVe(100D) | 99.75 | 81.25 |
 | LogisticRegression + TF-IDF | 99.11 | 87.21 |
 
 Future scope includes improvement in the attention layer to increase testing accuracy. BERT and XLNet can be implemented to improve the performance further.
