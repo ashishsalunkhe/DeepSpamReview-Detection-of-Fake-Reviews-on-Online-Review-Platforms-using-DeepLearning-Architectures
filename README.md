@@ -17,6 +17,16 @@ The following implementations are done:
 
 The results obtained were as follows:
 
+
+Sr. No. | Model Accuracy (%) | Precision Score | Recall Score | F1 Score |
+1 | MultinomialNB | 90.25 | 0.9325 | 0.8601 | 0.8948 |
+2 | Stochastic Gradient Descent (SGD) | 87.75 | 0.8913 | 0.8497 | 0.8700 |
+2 | Logistic Regression | 87.00 | 0.8691 | 0.8601 | 0.8645 |
+3 | Support Vector Machine | 56.25 | 0.525 | 0.9792 | 0.6835 |
+4 | Gaussian Naive Bayes | 63.5 | 0.6424 | 0.6169 | 0.6294 |
+5 | K-Nearest Neighbour | 57.5 | 0.8604 | 0.1840 | 0.3032 |
+6 | Decision tree | 68.5 | 0.6681 | 0.7412 | 0.7028 |
+
 | Model | Training accuracy(%) | Testing accuracy(%) |
 | ----- | ----------------- | ---------------- |
 | Bidirectional LSTM + GLoVe(50D) | 92.17  | 88.13 |
