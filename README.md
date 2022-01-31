@@ -6,11 +6,11 @@ Dataset: https://s3.amazonaws.com/fast-ai-nlp/yelp_review_polarity_csv.tgz <br>
          <br>
 The data includes 1,569,264 samples from the Yelp Dataset Challenge 2015. This subset has 280,000 training samples and 19,000 test samples in each polarity.
 <br>
+
+
 **Also, if you happen to refer my work, a citation would do wonders for me. Thanks!**
 
 Salunkhe, Ashish. "Attention-based Bidirectional LSTM for Deceptive Opinion Spam Classification." arXiv preprint arXiv:2112.14789 (2021).
-
-
 <br>
 The following implementations are done:
 1. Bidirectional LSTM with GLoVE 50D word embeddings
