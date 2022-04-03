@@ -10,8 +10,15 @@ The data includes 1,569,264 samples from the Yelp Dataset Challenge 2015. This s
 
 **Also, if you happen to refer my work, a citation would do wonders for me. Thanks!**
 
+```json
 Salunkhe, Ashish. "Attention-based Bidirectional LSTM for Deceptive Opinion Spam Classification." arXiv preprint arXiv:2112.14789 (2021).
+```
+
 <br>
+
+
+<br>
+
 The following implementations are done:
 1. Bidirectional LSTM with GLoVE 50D word embeddings
 2. LSTM with GLoVE 100D word embeddings
